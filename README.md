@@ -4,13 +4,12 @@
 
 ## Description
 
-This project retrieves hourly weather forecast data from the Open-Meteo API and visualizes it using Plotly.
-
+This project demonstrates the use of a public API to retrieve real-time weather forecast data and visualize it through an interactive graph. The application uses the Open-Meteo Weather API, processes the returned JSON data using Pandas, and generates an interactive line chart using Plotly.
 
 
 ## API Used
 
-Open-Meteo Weather API
+Open-Meteo Weather API: https://open-meteo.com/
 
 
 
