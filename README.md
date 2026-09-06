@@ -1,38 +1,38 @@
-\# Lab Activity 7 - Data Mining APIs and Interactive Data Visualization
+# Lab Activity 7 - Data Mining APIs and Interactive Data Visualization
 
 
 
-\## Description
+## Description
 
 This project retrieves hourly weather forecast data from the Open-Meteo API and visualizes it using Plotly.
 
 
 
-\## API Used
+## API Used
 
 Open-Meteo Weather API
 
 
 
-\## Technologies Used
+## Technologies Used
 
-\- Python
+- Python
 
-\- Requests
+- Requests
 
-\- Pandas
+- Pandas
 
-\- Plotly
+- Plotly
 
-\- Anaconda
-
-
-
-\## How to Run
+- Anaconda
 
 
 
-1\. Activate environment
+## How to Run
+
+
+
+1. Activate environment
 
 
 
@@ -40,19 +40,19 @@ conda activate lab7
 
 
 
-2\. Run program
+2. Run program
 
 
 
-python src\\main.py
+python src\main.py
 
 
 
-\## Features
+## Features
 
-\- Retrieves live weather data
+- Retrieves live weather data
 
-\- Processes JSON API data
+- Processes JSON API data
 
-\- Displays an interactive chart
+- Displays an interactive chart
 
